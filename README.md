@@ -1,3 +1,4 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jajo9147/pytorch-tabular-binary-classifier/blob/main/PyTorch_Churn_Classifier.ipynb)
 
 # PyTorch Tabular Classification - Binary Neural Network
 
